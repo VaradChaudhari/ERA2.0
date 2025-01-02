@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    margin-bottom: 40px;
+  }
+  
+  #departmentsList {
+    margin-top: 20px;
+  }
+  
+/* Add any custom styles here */
+.department {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .employee {
+    margin: 5px 0;
+  }
+  
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #addEmployeeFormContainer {
+    margin-top: 40px;
+  }
+  
